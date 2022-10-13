@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" id="background" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2250mm" height="500mm" viewBox="0 0 2250 500" xml:space="preserve">
+  <g>
+    <path fill="#FFFFFF" fill-rule="evenodd" stroke="none" d="M0,500L2250,500L2250,0L0,0Z"/>
+    <path fill="#FF0000" fill-rule="evenodd" stroke="none" d="M36.290,458.333L36.290,41.666L217.741,41.666L36.290,250L217.741,458.333ZM399.193,458.333L217.741,250L399.193,41.666L762.096,41.666L580.645,250L762.096,458.333ZM943.548,458.333L762.096,250L943.548,41.666L1306.451,41.666L1487.903,250L1306.451,458.333ZM1487.903,458.333L1669.354,250L1487.903,41.666L1850.806,41.666L2032.258,250L1850.806,458.333ZM2213.709,458.333L2213.709,41.666L2032.258,41.666L2213.709,250L2032.258,458.333Z"/>
+  </g>
+</svg>
